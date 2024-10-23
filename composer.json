@@ -5,6 +5,7 @@
             "EmilHnm\\GoogleTranslationApi\\": "src/"
         }
     },
+    "version": "0.0.1",
     "authors": [
         {
             "name": "Hoa NgoMinh",
