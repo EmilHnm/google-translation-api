@@ -1,0 +1,20 @@
+{
+    "name": "emil/google-translation-api",
+    "autoload": {
+        "psr-4": {
+            "EmilHnm\\GoogleTranslationApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hoa NgoMinh",
+            "email": "hoangominh01@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/http-client": "^7.1"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^7.1"
+    }
+}
