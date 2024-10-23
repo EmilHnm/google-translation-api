@@ -1,5 +1,5 @@
 {
-    "name": "emil/google-translation-api",
+    "name": "emilhnm/google-translation-api",
     "autoload": {
         "psr-4": {
             "EmilHnm\\GoogleTranslationApi\\": "src/"
